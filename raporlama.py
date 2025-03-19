@@ -1,3 +1,5 @@
+from collections import defaultdict
+import datetime
 class Raporlama:
     def __init__(self):
         self.girisler = []
